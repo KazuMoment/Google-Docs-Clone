@@ -46,4 +46,4 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 # Special Thanks
-Special thanks to Web Dev Simplified [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified) for helping create this app with his [video](https://www.youtube.com/watch?v=iRaelG7v0OU).
+Special thanks to [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified) for helping create this app with their [video](https://www.youtube.com/watch?v=iRaelG7v0OU).
